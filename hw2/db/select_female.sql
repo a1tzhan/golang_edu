@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE gender = 'f' ORDER BY birth_date DESC;
