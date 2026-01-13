@@ -1,1 +1,1 @@
-CREATE DATABASE university_db;
+CREATE DATABASE university_go;

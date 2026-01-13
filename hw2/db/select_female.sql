@@ -1,1 +1,1 @@
-SELECT * FROM students WHERE gender = 'f' ORDER BY birth_date DESC;
+SELECT * FROM student WHERE gender = 'f' ORDER BY birth_date DESC;

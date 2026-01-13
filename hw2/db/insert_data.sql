@@ -1,7 +1,7 @@
 INSERT INTO faculty (name) VALUES ('Engineering'), ('Humanities');
 
 INSERT INTO
-    group (name, faculty_id)
+    uni_group (name, faculty_id)
 VALUES ('MATH161', 1),
     ('CSCI152', 1),
     ('BUS101', 2),
